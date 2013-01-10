@@ -1,6 +1,16 @@
 /**
- * http://www.somacon.com/cgi/colorchart.pl
- * filters: {'operator':'>','value':'50%'}, {'operator':'=','value':'50'}
+ * Visual Tables is a Bootstrap HTML tables visualization jQuery plugin.
+ *
+ * @name visual-tables
+ * @version 1.0
+ * @requires jQuery v1.8.3+
+ * @author Jorge Sierra
+ * @license GPL License - http://www.gnu.org/licenses/gpl-2.0.txt
+ *
+ * For usage and examples, visit:
+ * http://http://jorgesierra.github.com/visual-tables/
+ *
+ * Copyright (c) 2013, Jorge Sierra (jorgeadriansierra@gmail.com)
  */
 (function($){
 $.fn.visualizeTable = function(options) {
